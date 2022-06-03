@@ -1,0 +1,32 @@
+https://github.com/github/gitignore
+- .gitignore file is a text file that tells Git which files or folders to ignore in a project.This is a collection 
+.gitignore templates. What inerests me about .gitignore is how it is implemented when working on a project and 
+when you should use it.
+
+https://github.com/ageitgey/face_recognition
+-This Facial recognization python project claims not to be complicated and is super intersting. It finds 
+the face of a person and has the ability to identify facial features and identify people in images. What interests me most
+is that it has the ability to be installed on a rasberry pi 2. Imagine rigging up a rasberry pie to your door lock and a
+front door camera,and unlocking your front door with your face. Definitely going to some research into this over my free time
+facial recogniztion can be implemnted in many other things then just your front door imagine in a car or used for Surveillance.
+
+https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition
+- FizzBuzzEnterpriseEdition this project is funny but also a intersting concept. This project is supposed to be a test
+used by employers to weed out non programmers applying fora postion. This concept acually reminds me of a IBM software 
+that is sold to commercial buisness, the software weeds non quallifying applicates out before the intervieing proccess begins
+so they dont waste there time, and actually interview good quality canidates that would stay with the company longer, saving 
+the comapny money through time and hiring a quality canidate. Programing your own test could be useful to many things 
+essentially you could create a passcode. lets say you create a test and if you get a 100 on it it completes a task. Lets
+use the example again of unlocking somthing or turning something off or on.
+
+
+https://github.com/yuzu-emu/yuzu
+- This is a nintendo switch emulator written in c++! I am quite familar with emulators but i did not know it was possible to create a 
+nintendo switch emulator. The fact this exist interest me, i looked up emulator with the thought of maybe something simpler 
+like snes or gba emulator but this is super cool and probably way to complicated for me. For those who do not know what a emulator is 
+it is basically a simulation and gives you the ability to run and play game files pertaining to the console it is emulating. Emulators are kind of 
+controversial topic because it is usually used to play pirated games aquired illeaglly so you can see why it is fround apon.
+
+https://github.com/prjseal/PasswordGenerator
+-This should be a little more simpler it is a password generator pretty self explanatory. It generates a password based on requirements you set. 
+What i found interesting was the ability to set requirements.
